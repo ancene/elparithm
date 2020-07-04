@@ -2,7 +2,7 @@
   "name": "shandysiswandi/elparitma",
   "description": "The Library for handle Algorithms.",
   "keywords": [
-    "Algorithms",
+    "algorithms",
     "library"
   ],
   "license": "MIT",
@@ -11,7 +11,7 @@
     {
       "name": "shandysiswandi",
       "email": "shandysiswandi@gmail.com",
-      "role": "software enginer"
+      "role": "Software Enginer"
     }
   ],
   "require": {
@@ -23,12 +23,12 @@
   },
   "autoload": {
     "psr-4": {
-      "ShandySiswandi\\Elparithm\\": "src/"
+      "Ngutex\\Elparithm\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "ShandySiswandi\\Elparithm\\Test\\": "tests/"
+      "Ngutex\\Elparithm\\Test\\": "tests/"
     }
   },
   "scripts": {
